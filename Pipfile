@@ -10,6 +10,7 @@ flask = "*"
 flask-sqlalchemy = "*"
 flask-marshmallow = "*"
 marshmallow-sqlalchemy = "*"
+frozen-flask = "*"
 
 [requires]
 python_version = "3.7"

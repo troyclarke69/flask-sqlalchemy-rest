@@ -1,0 +1,18 @@
+NETLIFY
+Repository
+    github.com/troyclarke69/flask-sqlalchemy-rest
+Base directory
+    Not set
+Build command
+    python freeze.py
+	(** include freeze.py in ROOT folder)
+Publish directory
+    build
+Deploy log visibility
+    Logs are public
+
+to create REQUIREMENTS.txt
+- run: pip freeze > requirements.txt
+
+* Also add RUNTIME.txt
+- contains only the current version: ie. 3.7
